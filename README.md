@@ -1,3 +1,13 @@
+#从R-CNN到RFBNet,深度目标检测5年纵览，文章+代码让你从入门到精通
+【导读】目标检测，是计算机视觉领域中，最基本的，也是最具挑战性的问题之一，它旨在从自然的图像中，识别预定义的类别的物体，并定位它们（给出边界框）。实际上，目标检测并不是一个很新的任务，但是随着近年来的深度学习技术的加持，目标检测领域历久旎新。几天前，Li Liu 等研究人员，向 IJCV 投稿了一篇30页的关于深度目标检测的调研文章，专知小编拜读后，在这里与各位分享。
+
+文章名 | Deep Learning for Generic Object Detection: A Survey
+
+文章地址 | https://arxiv.org/abs/1809.02165
+
+作者 |  Li Liu, Wanli Ouyang, Xiaogang Wang etc.
+
+整理报导 | huaiwen
 # deep learning object detection
 A paper list of object detection using deep learning. I worte with reference to [this survey paper](https://arxiv.org/pdf/1809.02165v1.pdf)  
 
